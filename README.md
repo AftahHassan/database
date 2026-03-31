@@ -1,3 +1,6 @@
+<img width="987" height="582" alt="image" src="https://github.com/user-attachments/assets/e56b9db2-150f-4318-8091-5c9ed8bc2aa4" />
+
+
 # 📌 Base de Donnée - Manage Surf
 
 ## 🗄️ Création et configuration de la base de données
@@ -46,5 +49,13 @@ CREATE TABLE enrollments (
     FOREIGN KEY (student_id) REFERENCES students(id),
     FOREIGN KEY (lesson_id) REFERENCES lessons(id)
 );
-<img width="1248" height="692" alt="github" src="https://github.com/user-attachments/assets/f03e4dc4-58e0-477d-919a-9b8f3033d2cf" />
+
+
+
+
+
+
+
+
+
 
