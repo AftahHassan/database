@@ -46,4 +46,5 @@ CREATE TABLE enrollments (
     FOREIGN KEY (student_id) REFERENCES students(id),
     FOREIGN KEY (lesson_id) REFERENCES lessons(id)
 );
+
 <img width="1248" height="692" alt="image" src="https://github.com/user-attachments/assets/41f005d4-dac4-4637-90be-15784d89a9b8" />
